@@ -1,6 +1,3 @@
-#Jeu du Pendu 21/11/22 par Sarah et Lucie
-
-
 from random import *
 import time
 #Cela va permettre d'utiliser notre variable "choice" et notre module "time".
